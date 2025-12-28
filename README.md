@@ -24,6 +24,10 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
  
 **CIRCUIT DIAGRAM: VERIFICATION OF NORTON’S THEOREM**
 
+
+![WhatsApp Image 2025-12-24 at 10 20 07 AM](https://github.com/user-attachments/assets/6651b2d2-9a69-4f38-88b9-ac1e13badcf9)
+
+
 **To measure IL**
 
 
